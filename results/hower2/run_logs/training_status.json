@@ -1,0 +1,65 @@
+{
+    "HoverBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\hower2\\HoverBehavior\\HoverBehavior-499968.onnx",
+                "reward": null,
+                "creation_time": 1622042937.6469789,
+                "auxillary_file_paths": [
+                    "results\\hower2\\HoverBehavior\\HoverBehavior-499968.pt"
+                ]
+            },
+            {
+                "steps": 576000,
+                "file_path": "results\\hower2\\HoverBehavior\\HoverBehavior-576000.onnx",
+                "reward": null,
+                "creation_time": 1622043308.8715575,
+                "auxillary_file_paths": [
+                    "results\\hower2\\HoverBehavior\\HoverBehavior-576000.pt"
+                ]
+            },
+            {
+                "steps": 663552,
+                "file_path": "results\\hower2\\HoverBehavior\\HoverBehavior-663552.onnx",
+                "reward": null,
+                "creation_time": 1622043803.138881,
+                "auxillary_file_paths": [
+                    "results\\hower2\\HoverBehavior\\HoverBehavior-663552.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\hower2\\HoverBehavior\\HoverBehavior-999936.onnx",
+                "reward": null,
+                "creation_time": 1622045638.2694435,
+                "auxillary_file_paths": [
+                    "results\\hower2\\HoverBehavior\\HoverBehavior-999936.pt"
+                ]
+            },
+            {
+                "steps": 1168896,
+                "file_path": "results\\hower2\\HoverBehavior\\HoverBehavior-1168896.onnx",
+                "reward": null,
+                "creation_time": 1622046507.7116115,
+                "auxillary_file_paths": [
+                    "results\\hower2\\HoverBehavior\\HoverBehavior-1168896.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1168896,
+            "file_path": "results\\hower2\\HoverBehavior.onnx",
+            "reward": null,
+            "creation_time": 1622046507.7116115,
+            "auxillary_file_paths": [
+                "results\\hower2\\HoverBehavior\\HoverBehavior-1168896.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

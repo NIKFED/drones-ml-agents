@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1621969013",
+        "python_version": "3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\fedni\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\mlagents-learn config/rollerball_config.yaml --run-id=test1",
+        "mlagents_version": "0.26.0",
+        "mlagents_envs_version": "0.26.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.1",
+        "end_time_seconds": "1621969063"
+    },
+    "total": 49.854246599999996,
+    "count": 1,
+    "self": 0.0071003999999987855,
+    "children": {
+        "run_training.setup": {
+            "total": 0.09836970000000012,
+            "count": 1,
+            "self": 0.09836970000000012
+        },
+        "TrainerController.start_learning": {
+            "total": 49.7487765,
+            "count": 1,
+            "self": 0.00036320000000245045,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 49.748402399999996,
+                    "count": 1,
+                    "self": 49.748402399999996
+                },
+                "trainer_threads": {
+                    "total": 1.1999999998124622e-06,
+                    "count": 1,
+                    "self": 1.1999999998124622e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 9.699999999668307e-06,
+                    "count": 1,
+                    "self": 9.699999999668307e-06
+                }
+            }
+        }
+    }
+}
