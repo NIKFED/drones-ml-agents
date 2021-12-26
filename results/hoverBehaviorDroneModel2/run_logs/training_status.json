@@ -1,0 +1,29 @@
+{
+    "HoverBehavior": {
+        "checkpoints": [
+            {
+                "steps": 101582,
+                "file_path": "results\\hoverBehaviorDroneModel2\\HoverBehavior\\HoverBehavior-101582.onnx",
+                "reward": null,
+                "creation_time": 1640346359.5739243,
+                "auxillary_file_paths": [
+                    "results\\hoverBehaviorDroneModel2\\HoverBehavior\\HoverBehavior-101582.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 101582,
+            "file_path": "results\\hoverBehaviorDroneModel2\\HoverBehavior.onnx",
+            "reward": null,
+            "creation_time": 1640346359.5739243,
+            "auxillary_file_paths": [
+                "results\\hoverBehaviorDroneModel2\\HoverBehavior\\HoverBehavior-101582.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
