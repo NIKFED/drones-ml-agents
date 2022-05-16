@@ -1,0 +1,29 @@
+{
+    "HoverBehavior": {
+        "checkpoints": [
+            {
+                "steps": 207417,
+                "file_path": "results\\hover04\\HoverBehavior\\HoverBehavior-207417.onnx",
+                "reward": null,
+                "creation_time": 1650025239.6008382,
+                "auxillary_file_paths": [
+                    "results\\hover04\\HoverBehavior\\HoverBehavior-207417.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 207417,
+            "file_path": "results\\hover04\\HoverBehavior.onnx",
+            "reward": null,
+            "creation_time": 1650025239.6008382,
+            "auxillary_file_paths": [
+                "results\\hover04\\HoverBehavior\\HoverBehavior-207417.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "HoverBehavior": {
+        "checkpoints": [
+            {
+                "steps": 10005,
+                "file_path": "results\\Hover10Steps\\HoverBehavior\\HoverBehavior-10005.onnx",
+                "reward": -1.0203866958618164,
+                "creation_time": 1652286365.3827388,
+                "auxillary_file_paths": [
+                    "results\\Hover10Steps\\HoverBehavior\\HoverBehavior-10005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10005,
+            "file_path": "results\\Hover10Steps\\HoverBehavior.onnx",
+            "reward": -1.0203866958618164,
+            "creation_time": 1652286365.3827388,
+            "auxillary_file_paths": [
+                "results\\Hover10Steps\\HoverBehavior\\HoverBehavior-10005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
